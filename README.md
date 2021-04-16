@@ -28,3 +28,6 @@ python manage.py createsuperuser
 Username : admin
 Password : 12345678
 ```
+you can view this site for demo
+
+https://coza.herokuapp.com/
